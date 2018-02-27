@@ -1,0 +1,4 @@
+Hello everyone!
+
+The project is based on Python. 
+No need to GuessLang anymore!
